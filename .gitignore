@@ -1,0 +1,15 @@
+# Ignore for all Android Studio projects inside subfolders
+*.iml
+.gradle
+/local.properties
+/.idea/
+/.DS_Store
+/build/
+/captures/
+/.externalNativeBuild/
+/.cxx/
+/**/build/  # ini penting biar semua subfolder yang punya build/ ke-ignore juga
+/**/.gradle/
+/**/.idea/
+/**/.DS_Store
+local.properties
